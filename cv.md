@@ -37,4 +37,9 @@
 ============
 Constructor in the engineering of underground structures(2014- July 2021).
 
-
+**Languages**
+============
+* A2 - English
+* A2 - Polish
+* C2 - Belorusian
+* C2 - Russian
