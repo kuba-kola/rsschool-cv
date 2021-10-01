@@ -10,6 +10,35 @@
 * Skype: jakub.trafimovich
 
 
+**About me**
+============
+For 7 years I successfully worked as a leading constructor in the engineering ofunderground structures. When engineering became less attractive to me and thecompany became too pro-governmental, I decided to try myself at somethingnew. I found and completed the JavaScript courses, at the same time growingmy Twitter account, and the Twitter account of FC Krumkachy. At the moment JSis my main driving force and motivation. I am actively investing my free time inself-development and education and continue to master HTML, CSS, JavaScript,ReactJS and not going to stop there! My strengths are - my sense of humor, Imake friends easily and could find a common language with any person, I'm notafraid of new challenges and constructive criticism, I'm ready to do a lot toachieve personal and family goals, not forgetting about work life balance.
+
+
+**Skills**
+============
+* HTML,
+* CSS
+* JavaScript
+* ReactJS
+* Scrum
+* Sense of humor
+* Soft skills
+* Team work
+* Business etiquette
+
+**Code examples**
+============
+```
+'use strict';
+
+const inputBYN = document.querySelector('byn'),
+      inputUSD = document.querySelector('usd');
+inputBYN.addEventListener('input', () => {
+    const request = new XMLHttpRequest();
+    request.open('GET', 'js/current.json');
+})
+```
 
 **Education**
 ============
